@@ -3,3 +3,57 @@
   box-sizing:border-box;  
 }
 
+/**ROOTS**/
+:root {
+  --header-color:#ffffff;
+  --homepage-buttons-color:#f6f6f6;
+  --tekst-color:#090909;
+  --notification-color:#037ab6;
+}
+
+
+/**HEADER**/
+head {
+  display: block;
+  margin: auto;
+}
+
+img:first-of-type {
+  position: absolute;
+  top:0;
+  left:0;
+  width: 2em;
+}
+
+img:nth-of-type(2) {
+  position: absolute;
+  top:0;
+  left: 40%;
+  width: 5em;
+}
+
+
+
+
+
+
+
+/**BODY**/
+
+body h2:nth-of-type(1) {
+  position:absolute;
+  top:6em;
+  left: 2em;
+  border: 1px solid #CCC;
+  font-size: medium;
+  padding:1em;
+}
+
+body h2:nth-of-type(2) {
+  position:absolute;
+  top:6em;
+  right:2em;
+  border: 1px solid #CCC;
+  font-size: medium;
+  padding:1em;
+}
