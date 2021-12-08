@@ -141,8 +141,14 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
+ tabben was succesvol bij alle linkjes en buttons.
+ Website met parkinson gebruiken is erg lastig, wel kan je extra snel tabben.
+ Als je beperkingen met je oog hebt dan is het lastig om de site te gebruiken, text is iets te klein daarvoor.
+ De screenreader leest alles in volgorde.
+ 
 
 #### Titel eerste bevinding
+ 
 Hier korte omschrijving (met indien nodig een afbeelding)
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
